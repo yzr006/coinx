@@ -1,0 +1,28 @@
+{
+  "name": "coinx.yzr006.github.com",
+  "version": "1.0.0",
+  "description": "数字货币交易工具",
+  "main": "app.js",
+  "scripts": {
+    "test": "empty"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yzr006/coinx.git"
+  },
+  "keywords": [
+    "coin",
+    "exchange"
+  ],
+  "author": "terry.wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yzr006/coinx/issues"
+  },
+  "homepage": "https://github.com/yzr006/coinx#readme",
+  "dependencies": {
+    "koa": "^2.4.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}

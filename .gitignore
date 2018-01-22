@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# 忽略隐私文件
+api_key_config.js
