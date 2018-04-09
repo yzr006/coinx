@@ -24,5 +24,8 @@
     "koa": "^2.4.1",
     "request": "^2.83.0",
     "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "my-npm-package-for-terry-test": "^1.0.3"
   }
 }
